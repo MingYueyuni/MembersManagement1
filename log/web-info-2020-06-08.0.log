@@ -1,0 +1,551 @@
+2020-06-08 17:31:28.618 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 5152 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 17:31:28.634 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 17:31:28.727 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 17:31:28.727 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 17:31:30.111 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 17:31:30.127 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:31:30.127 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 17:31:30.127 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 17:31:30.236 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 17:31:30.236 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1509 ms
+2020-06-08 17:31:30.314 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-06-08 17:31:30.330 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-06-08 17:31:56.333 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 14020 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 17:31:56.354 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 17:31:56.480 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 17:31:56.481 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 17:31:57.853 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 17:31:57.860 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:31:57.861 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 17:31:57.861 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 17:31:57.973 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 17:31:57.973 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1492 ms
+2020-06-08 17:31:58.032 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-06-08 17:31:58.051 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-06-08 17:34:08.408 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 4448 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 17:34:08.420 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 17:34:08.525 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 17:34:08.526 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 17:34:10.112 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 17:34:10.128 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:34:10.128 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 17:34:10.129 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 17:34:10.251 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 17:34:10.251 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1724 ms
+2020-06-08 17:34:10.300 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-06-08 17:34:10.317 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-06-08 17:34:36.938 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 1552 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 17:34:36.943 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 17:34:37.038 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 17:34:37.038 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 17:34:38.597 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 17:34:38.610 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:34:38.610 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 17:34:38.611 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 17:34:38.742 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 17:34:38.743 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1705 ms
+2020-06-08 17:34:39.290 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 17:34:39.577 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 17:34:39.746 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:34:39.769 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 17:34:39.780 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 3.633 seconds (JVM running for 4.986)
+2020-06-08 17:35:22.144 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 17:35:22.144 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 17:35:22.153 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2020-06-08 17:36:20.811 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 16872 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 17:36:20.816 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 17:36:20.925 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 17:36:20.926 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 17:36:24.172 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 17:36:24.186 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:36:24.188 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 17:36:24.188 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 17:36:24.358 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 17:36:24.358 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3432 ms
+2020-06-08 17:36:25.153 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 17:36:25.221 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 17:36:25.570 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 17:36:25.617 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:36:25.833 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 17:36:25.850 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 6.007 seconds (JVM running for 9.163)
+2020-06-08 17:47:01.142 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 5224 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 17:47:01.158 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 17:47:01.267 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 17:47:01.267 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 17:47:03.423 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 17:47:03.424 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:47:03.424 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 17:47:03.424 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 17:47:03.573 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 17:47:03.573 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2306 ms
+2020-06-08 17:47:04.156 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 17:47:04.241 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 17:47:04.449 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 17:47:04.660 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:47:04.939 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 17:47:04.954 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 4.804 seconds (JVM running for 6.974)
+2020-06-08 17:47:11.027 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 17:47:11.027 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 17:47:11.034 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2020-06-08 17:55:25.049 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 14304 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 17:55:25.059 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 17:55:25.170 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 17:55:25.170 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 17:55:27.332 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 17:55:27.339 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:55:27.339 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 17:55:27.339 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 17:55:27.517 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 17:55:27.517 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2339 ms
+2020-06-08 17:55:28.157 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 17:55:28.219 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 17:55:28.489 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 17:55:28.620 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:55:28.642 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 17:55:28.689 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 5.082 seconds (JVM running for 8.539)
+2020-06-08 17:56:09.745 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 17:56:09.746 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 17:56:09.759 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 12 ms
+2020-06-08 17:57:42.719 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 10636 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 17:57:42.755 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 17:57:42.871 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 17:57:42.872 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 17:57:45.251 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 17:57:45.267 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:57:45.267 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 17:57:45.267 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 17:57:45.517 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 17:57:45.517 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2645 ms
+2020-06-08 17:57:46.616 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 17:57:46.763 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 17:57:47.023 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 17:57:47.156 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:57:47.187 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 17:57:47.202 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 5.727 seconds (JVM running for 8.109)
+2020-06-08 17:57:47.828 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 17:57:47.828 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 17:57:47.835 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2020-06-08 17:58:25.532 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 18288 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 17:58:25.532 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 17:58:25.611 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 17:58:25.611 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 17:58:27.157 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 17:58:27.173 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:58:27.173 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 17:58:27.173 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 17:58:27.286 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 17:58:27.286 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1675 ms
+2020-06-08 17:58:27.908 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 17:58:27.971 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 17:58:28.190 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 17:58:28.330 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 17:58:28.361 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 17:58:28.377 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 3.716 seconds (JVM running for 5.294)
+2020-06-08 17:58:33.433 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 17:58:33.433 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 17:58:33.438 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2020-06-08 20:06:10.527 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 11424 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 20:06:10.527 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 20:06:10.621 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 20:06:10.621 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 20:06:12.262 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 20:06:12.277 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 20:06:12.277 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 20:06:12.277 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 20:06:12.387 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 20:06:12.387 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1766 ms
+2020-06-08 20:06:12.932 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 20:06:12.979 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 20:06:13.151 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 20:06:13.292 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 20:06:13.307 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 20:06:13.323 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 3.748 seconds (JVM running for 5.991)
+2020-06-08 20:07:36.447 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 20:07:36.448 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 20:07:36.458 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2020-06-08 20:07:36.824 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 20:07:37.143 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 20:19:29.424 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 1672 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 20:19:29.424 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 20:19:29.518 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 20:19:29.518 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 20:19:31.511 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 20:19:31.527 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 20:19:31.527 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 20:19:31.527 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 20:19:31.652 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 20:19:31.652 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2134 ms
+2020-06-08 20:19:32.120 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 20:19:32.183 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 20:19:32.371 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 20:19:32.464 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 20:19:32.480 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 20:19:32.496 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 3.817 seconds (JVM running for 5.543)
+2020-06-08 20:21:12.530 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 20:21:12.530 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 20:21:12.537 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2020-06-08 20:21:12.973 [http-nio-8080-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 20:21:13.276 [http-nio-8080-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 20:22:31.831 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 12512 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 20:22:31.846 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 20:22:31.924 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 20:22:31.924 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 20:22:33.502 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 20:22:33.517 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 20:22:33.517 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 20:22:33.517 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 20:22:33.642 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 20:22:33.642 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1718 ms
+2020-06-08 20:22:34.158 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 20:22:34.205 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 20:22:34.350 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 20:22:34.459 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 20:22:34.490 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 20:22:34.490 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 3.483 seconds (JVM running for 4.97)
+2020-06-08 20:24:03.260 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 20:24:03.260 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 20:24:03.267 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2020-06-08 20:24:03.665 [http-nio-8080-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 20:24:03.900 [http-nio-8080-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 20:36:00.245 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 11928 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 20:36:00.245 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 20:36:00.354 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 20:36:00.354 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 20:36:02.346 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 20:36:02.346 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 20:36:02.346 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 20:36:02.346 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 20:36:02.455 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 20:36:02.455 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2101 ms
+2020-06-08 20:36:02.877 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 20:36:02.940 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 20:36:03.080 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 20:36:03.174 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 20:36:03.205 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 20:36:03.205 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 3.761 seconds (JVM running for 5.376)
+2020-06-08 20:36:18.078 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 20:36:18.078 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 20:36:18.085 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2020-06-08 20:36:18.821 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 20:36:19.175 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 20:38:19.736 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 1384 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 20:38:19.740 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 20:38:19.815 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 20:38:19.815 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 20:38:21.241 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 20:38:21.249 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 20:38:21.250 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 20:38:21.250 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 20:38:21.362 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 20:38:21.362 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1546 ms
+2020-06-08 20:38:21.820 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 20:38:21.870 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 20:38:22.035 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 20:38:22.138 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 20:38:22.157 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 20:38:22.167 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 3.251 seconds (JVM running for 4.788)
+2020-06-08 20:38:28.021 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 20:38:28.021 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 20:38:28.028 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2020-06-08 20:38:28.488 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 20:38:28.696 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 20:39:18.937 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 4204 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 20:39:18.953 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 20:39:19.062 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 20:39:19.062 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 20:39:21.389 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 20:39:21.402 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 20:39:21.403 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 20:39:21.403 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 20:39:21.552 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 20:39:21.553 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2491 ms
+2020-06-08 20:39:22.197 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 20:39:22.262 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 20:39:22.445 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 20:39:22.572 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 20:39:22.596 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 20:39:22.612 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 4.441 seconds (JVM running for 6.073)
+2020-06-08 20:39:22.655 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 20:39:22.655 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 20:39:22.665 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2020-06-08 20:39:23.053 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 20:39:23.331 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 20:43:41.721 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 984 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 20:43:41.730 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 20:43:41.819 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 20:43:41.819 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 20:43:43.236 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 20:43:43.245 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 20:43:43.245 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 20:43:43.245 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 20:43:43.361 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 20:43:43.361 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1542 ms
+2020-06-08 20:43:43.794 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 20:43:43.845 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 20:43:44.093 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 20:43:44.110 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 20:43:44.131 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 20:43:44.143 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 3.195 seconds (JVM running for 4.77)
+2020-06-08 20:43:53.761 [http-nio-8080-exec-3] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 20:43:53.761 [http-nio-8080-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 20:43:53.767 [http-nio-8080-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2020-06-08 20:43:54.298 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 20:43:54.561 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 20:46:05.045 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 5904 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 20:46:05.061 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 20:46:05.199 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 20:46:05.199 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 20:46:06.803 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 20:46:06.810 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 20:46:06.811 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 20:46:06.811 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 20:46:06.920 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 20:46:06.920 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1721 ms
+2020-06-08 20:46:07.333 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 20:46:07.384 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 20:46:07.530 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 20:46:07.641 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 20:46:07.661 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 20:46:07.671 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 3.526 seconds (JVM running for 5.243)
+2020-06-08 20:46:11.831 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 20:46:11.831 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 20:46:11.836 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2020-06-08 20:46:12.331 [http-nio-8080-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 20:46:12.711 [http-nio-8080-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 20:47:49.608 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 1608 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 20:47:49.612 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 20:47:49.694 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 20:47:49.694 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 20:47:51.365 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 20:47:51.376 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 20:47:51.377 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 20:47:51.377 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 20:47:51.480 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 20:47:51.480 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1785 ms
+2020-06-08 20:47:51.918 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 20:47:51.986 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 20:47:52.152 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 20:47:52.275 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 20:47:52.299 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 20:47:52.314 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 3.584 seconds (JVM running for 5.156)
+2020-06-08 20:47:59.798 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 20:47:59.799 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 20:47:59.808 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2020-06-08 20:48:00.233 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 20:48:00.556 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 20:50:00.254 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 5396 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 20:50:00.254 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 20:50:00.347 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 20:50:00.347 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 20:50:01.688 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 20:50:01.688 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 20:50:01.704 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 20:50:01.704 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 20:50:01.788 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 20:50:01.788 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1441 ms
+2020-06-08 20:50:02.205 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 20:50:02.259 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 20:50:02.428 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 20:50:02.528 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 20:50:02.544 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 20:50:02.559 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 3.09 seconds (JVM running for 4.678)
+2020-06-08 20:50:26.790 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 20:50:26.791 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 20:50:26.796 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2020-06-08 20:50:27.411 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 20:50:27.619 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 20:50:45.925 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 7236 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 20:50:45.929 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 20:50:46.074 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 20:50:46.074 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 20:50:47.480 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 20:50:47.488 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 20:50:47.489 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 20:50:47.489 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 20:50:47.587 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 20:50:47.587 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1512 ms
+2020-06-08 20:50:48.000 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 20:50:48.056 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 20:50:48.208 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 20:50:48.311 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 20:50:48.331 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 20:50:48.342 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 3.122 seconds (JVM running for 4.555)
+2020-06-08 20:50:53.138 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 20:50:53.139 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 20:50:53.145 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2020-06-08 20:50:53.592 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 20:50:53.841 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 21:08:20.592 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 4416 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 21:08:20.599 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 21:08:20.830 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 21:08:20.831 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 21:08:22.275 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 21:08:22.284 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 21:08:22.285 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 21:08:22.285 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 21:08:22.397 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 21:08:22.397 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1566 ms
+2020-06-08 21:08:22.907 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 21:08:22.985 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 21:08:23.438 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 21:08:23.543 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 21:08:23.564 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 21:08:23.575 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 3.931 seconds (JVM running for 5.541)
+2020-06-08 21:08:30.330 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 21:08:30.330 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 21:08:30.337 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2020-06-08 21:08:31.051 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 21:08:31.372 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 21:16:57.413 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 10364 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 21:16:57.433 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 21:16:57.539 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 21:16:57.540 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 21:16:59.493 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 21:16:59.502 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 21:16:59.502 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 21:16:59.502 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 21:16:59.622 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 21:16:59.623 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2083 ms
+2020-06-08 21:17:00.092 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 21:17:00.139 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 21:17:00.333 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 21:17:00.456 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 21:17:00.479 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 21:17:00.479 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 4.037 seconds (JVM running for 5.785)
+2020-06-08 21:17:18.483 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 21:17:18.483 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 21:17:18.492 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2020-06-08 21:17:18.889 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 21:17:19.196 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 21:25:34.196 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 11028 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 21:25:34.196 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 21:25:34.265 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 21:25:34.265 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 21:25:36.274 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 21:25:36.289 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 21:25:36.289 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 21:25:36.289 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 21:25:36.452 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 21:25:36.452 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2187 ms
+2020-06-08 21:25:37.004 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 21:25:37.237 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 21:25:37.437 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 21:25:37.538 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 21:25:37.569 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 21:25:37.575 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 4.443 seconds (JVM running for 6.284)
+2020-06-08 21:25:48.071 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 21:25:48.071 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 21:25:48.080 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2020-06-08 21:25:48.722 [http-nio-8080-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 21:25:49.161 [http-nio-8080-exec-4] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 21:26:43.644 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 1652 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 21:26:43.656 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 21:26:43.735 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 21:26:43.737 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 21:26:45.587 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 21:26:45.602 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 21:26:45.602 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 21:26:45.602 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 21:26:45.702 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 21:26:45.702 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1965 ms
+2020-06-08 21:26:46.219 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 21:26:46.272 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 21:26:46.453 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 21:26:46.585 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 21:26:46.623 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 21:26:46.623 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 3.896 seconds (JVM running for 6.234)
+2020-06-08 21:26:56.861 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 21:26:56.861 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 21:26:56.869 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2020-06-08 21:26:57.258 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 21:26:57.516 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 21:33:58.534 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 9456 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 21:33:58.541 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 21:33:58.631 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 21:33:58.632 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 21:34:00.473 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 21:34:00.473 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 21:34:00.473 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 21:34:00.473 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 21:34:00.588 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 21:34:00.588 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1956 ms
+2020-06-08 21:34:01.268 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 21:34:01.375 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 21:34:01.759 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 21:34:02.022 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 21:34:02.060 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 21:34:02.074 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 4.443 seconds (JVM running for 6.13)
+2020-06-08 21:34:05.436 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 21:34:05.437 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 21:34:05.443 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2020-06-08 21:34:06.000 [http-nio-8080-exec-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 21:34:06.291 [http-nio-8080-exec-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 21:36:59.740 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 2908 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 21:36:59.746 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 21:36:59.948 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 21:36:59.952 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 21:37:02.511 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 21:37:02.526 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 21:37:02.526 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 21:37:02.526 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 21:37:02.636 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 21:37:02.636 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2682 ms
+2020-06-08 21:37:03.138 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 21:37:03.184 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 21:37:03.369 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 21:37:03.470 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 21:37:03.501 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 21:37:03.501 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 4.723 seconds (JVM running for 6.699)
+2020-06-08 21:37:49.659 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 21:37:49.659 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 21:37:49.667 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2020-06-08 21:37:50.138 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 21:37:50.368 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 21:40:21.952 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 7044 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 21:40:21.962 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 21:40:22.051 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 21:40:22.052 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 21:40:23.655 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 21:40:23.664 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 21:40:23.665 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 21:40:23.665 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 21:40:23.772 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 21:40:23.772 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1720 ms
+2020-06-08 21:40:24.216 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 21:40:24.308 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 21:40:24.538 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 21:40:24.639 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 21:40:24.659 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 21:40:24.669 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 3.545 seconds (JVM running for 5.046)
+2020-06-08 21:40:41.409 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 21:40:41.409 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 21:40:41.415 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2020-06-08 21:40:41.880 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 21:40:42.093 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2020-06-08 21:49:43.390 [restartedMain] INFO  com.example.MembersManagementApplication - Starting MembersManagementApplication on DESKTOP-USL6JU2 with PID 9752 (D:\Tencent\idea\MembersManagement\target\classes started by WangYiMu in D:\Tencent\idea\MembersManagement)
+2020-06-08 21:49:43.396 [restartedMain] INFO  com.example.MembersManagementApplication - No active profile set, falling back to default profiles: default
+2020-06-08 21:49:43.643 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-08 21:49:43.650 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-08 21:49:47.666 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-06-08 21:49:47.685 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-06-08 21:49:47.687 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-08 21:49:47.688 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-08 21:49:47.924 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-08 21:49:47.925 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4275 ms
+2020-06-08 21:49:48.778 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-08 21:49:49.281 [restartedMain] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2020-06-08 21:49:49.748 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-08 21:49:49.862 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-06-08 21:49:49.885 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-08 21:49:49.897 [restartedMain] INFO  com.example.MembersManagementApplication - Started MembersManagementApplication in 7.564 seconds (JVM running for 9.965)
+2020-06-08 21:50:18.920 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-08 21:50:18.920 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-06-08 21:50:18.931 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2020-06-08 21:50:19.349 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2020-06-08 21:50:19.635 [http-nio-8080-exec-3] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.

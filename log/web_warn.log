@@ -1,0 +1,2 @@
+2020-06-09 12:50:11.122 [restartedMain] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/html/ (please add some templates or check your Thymeleaf configuration)
+2020-06-09 12:50:11.126 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.

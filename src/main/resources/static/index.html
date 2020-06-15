@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        #firDiv{
+            text-align:center;
+        }
+        #firTable{
+            width: 800px;
+        }
+        #firTable{
+            text-align:center;
+            margin:0 auto;
+        }
+        tr:nth-child(2n){
+
+            background-color: #fbc9a7
+
+        }
+    </style>
+    <script src="js/jquery-1.8.3.min.js"></script>
+    <script>
+        function check(id){
+            alert(id)
+        }
+        function del(id){
+            alert(id)
+        }
+        $(function () {
+            $.ajax({
+                url:"/mem/index",
+                type:"get",
+                data:{},
+                dataType:"json",
+                success:function (result) {
+                    var goodsname=null;
+                    $(result).each(function (i) {
+                        $.ajax({
+                            url:"/goods/index",
+                            type:"get",
+                            async:false,
+                            data:{
+                                "id":$(result)[i].goodsid,
+                            },
+                            dataType:"json",
+                            success:function (e) {
+                                goodsname=e.name;
+                            }
+                        })
+                        $("#firTable tbody").append("<tr>\n" +
+                            "                    <td>"+$(result)[i].memberNumber+"</td>\n" +
+                            "                    <td>"+$(result)[i].nickname+"</td>\n" +
+                            "                    <td>"+$(result)[i].createtime+"</td>\n" +
+                            "                    <td>"+goodsname+"</td>\n" +
+                            "                    <td><a onclick=\"check("+$(result)[i].goodsid+")\"></a>&nbsp;&nbsp;&nbsp;<a onclick=\"del("+$(result)[i].id+")\">删除</a></td>\n" +
+                            "                </tr>")
+                    })
+                }
+            })
+        })
+    </script>
+</head>
+<body>
+    <div id="firDiv" class="firDiv" style="text-align: center">
+            <b>会员卡号：</b>
+        <input type="text" value="" id="firInput" class="firInput" autocomplete="on">
+        <input type="button" value="查询" id="firButton" class="firButton">
+        <input type="button" value="添加" id="secButton" class="secButton">
+        <table id="firTable" class="firTable" border="1px" style="text-align:center">
+            <thead>
+            <tr>
+                <td colspan="5" style="font-size: 50px" >电子文档列表</td>
+            </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>会员卡号</td>
+                    <td>昵称</td>
+                    <td>申请时间</td>
+                    <td>最新购买商品</td>
+                    <td>操作</td>
+                </tr>
+
+            </tbody>
+
+        </table>
+    </div>
+</body>
+</html>

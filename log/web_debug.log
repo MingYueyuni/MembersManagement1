@@ -1,0 +1,85 @@
+2020-06-09 12:50:07.682 [restartedMain] DEBUG com.example.MembersManagementApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-06-09 12:50:10.583 [restartedMain] DEBUG com.zaxxer.hikari.HikariConfig - Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader org.springframework.boot.devtools.restart.classloader.RestartClassLoader@3f59cefd
+2020-06-09 12:50:48.463 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - HikariPool-1 - configuration:
+2020-06-09 12:50:48.468 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - allowPoolSuspension.............false
+2020-06-09 12:50:48.494 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - autoCommit......................true
+2020-06-09 12:50:48.495 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - catalog.........................none
+2020-06-09 12:50:48.495 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - connectionInitSql...............none
+2020-06-09 12:50:48.496 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - connectionTestQuery.............none
+2020-06-09 12:50:48.496 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - connectionTimeout...............30000
+2020-06-09 12:50:48.497 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - dataSource......................none
+2020-06-09 12:50:48.497 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - dataSourceClassName.............none
+2020-06-09 12:50:48.497 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - dataSourceJNDI..................none
+2020-06-09 12:50:48.498 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - dataSourceProperties............{password=<masked>}
+2020-06-09 12:50:48.500 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - driverClassName................."com.mysql.cj.jdbc.Driver"
+2020-06-09 12:50:48.500 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - exceptionOverrideClassName......none
+2020-06-09 12:50:48.500 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - healthCheckProperties...........{}
+2020-06-09 12:50:48.500 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - healthCheckRegistry.............none
+2020-06-09 12:50:48.501 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - idleTimeout.....................600000
+2020-06-09 12:50:48.501 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - initializationFailTimeout.......1
+2020-06-09 12:50:48.501 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - isolateInternalQueries..........false
+2020-06-09 12:50:48.501 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - jdbcUrl.........................jdbc:mysql://localhost:3306/member_management?useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2B8
+2020-06-09 12:50:48.501 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - leakDetectionThreshold..........0
+2020-06-09 12:50:48.502 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - maxLifetime.....................1800000
+2020-06-09 12:50:48.502 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - maximumPoolSize.................10
+2020-06-09 12:50:48.502 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - metricRegistry..................none
+2020-06-09 12:50:48.502 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - metricsTrackerFactory...........none
+2020-06-09 12:50:48.502 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - minimumIdle.....................10
+2020-06-09 12:50:48.502 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - password........................<masked>
+2020-06-09 12:50:48.502 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - poolName........................"HikariPool-1"
+2020-06-09 12:50:48.503 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - readOnly........................false
+2020-06-09 12:50:48.503 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - registerMbeans..................false
+2020-06-09 12:50:48.506 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - scheduledExecutor...............none
+2020-06-09 12:50:48.507 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - schema..........................none
+2020-06-09 12:50:48.507 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - threadFactory...................internal
+2020-06-09 12:50:48.507 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - transactionIsolation............default
+2020-06-09 12:50:48.507 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - username........................"root"
+2020-06-09 12:50:48.507 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.HikariConfig - validationTimeout...............5000
+2020-06-09 12:50:48.901 [http-nio-8080-exec-3] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@36aea775
+2020-06-09 12:50:48.918 [http-nio-8080-exec-3] DEBUG com.example.mapper.membersMapper.selectAllmembers - ==>  Preparing: SELECT id, `memberNumber`, nickname, createtime, goodsid FROM member_management.members 
+2020-06-09 12:50:48.946 [http-nio-8080-exec-3] DEBUG com.example.mapper.membersMapper.selectAllmembers - ==> Parameters: 
+2020-06-09 12:50:48.984 [http-nio-8080-exec-3] DEBUG com.example.mapper.membersMapper.selectAllmembers - <==      Total: 3
+2020-06-09 12:50:48.990 [http-nio-8080-exec-3] DEBUG com.example.mapper.membersMapper.selectAllmembers - ==>  Preparing: SELECT id, `memberNumber`, nickname, createtime, goodsid FROM member_management.members 
+2020-06-09 12:50:48.991 [http-nio-8080-exec-3] DEBUG com.example.mapper.membersMapper.selectAllmembers - ==> Parameters: 
+2020-06-09 12:50:48.992 [http-nio-8080-exec-3] DEBUG com.example.mapper.membersMapper.selectAllmembers - <==      Total: 3
+2020-06-09 12:50:49.006 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+2020-06-09 12:50:49.020 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4461ef0c
+2020-06-09 12:50:49.030 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@55ce537
+2020-06-09 12:50:49.038 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3413c397
+2020-06-09 12:50:49.045 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@65731a78
+2020-06-09 12:50:49.053 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3ab5cc7e
+2020-06-09 12:50:49.063 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@613d83ba
+2020-06-09 12:50:49.070 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7b816733
+2020-06-09 12:50:49.083 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@61da2d81
+2020-06-09 12:50:49.087 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@583a8e2
+2020-06-09 12:50:49.088 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2020-06-09 12:50:49.092 [http-nio-8080-exec-7] DEBUG com.example.mapper.goodsMapper.selectByPrimaryKey - ==>  Preparing: select id, name, price from goods where id = ? 
+2020-06-09 12:50:49.093 [http-nio-8080-exec-7] DEBUG com.example.mapper.goodsMapper.selectByPrimaryKey - ==> Parameters: 1(Integer)
+2020-06-09 12:50:49.098 [http-nio-8080-exec-7] DEBUG com.example.mapper.goodsMapper.selectByPrimaryKey - <==      Total: 1
+2020-06-09 12:50:49.140 [http-nio-8080-exec-8] DEBUG com.example.mapper.goodsMapper.selectByPrimaryKey - ==>  Preparing: select id, name, price from goods where id = ? 
+2020-06-09 12:50:49.141 [http-nio-8080-exec-8] DEBUG com.example.mapper.goodsMapper.selectByPrimaryKey - ==> Parameters: 3(Integer)
+2020-06-09 12:50:49.144 [http-nio-8080-exec-8] DEBUG com.example.mapper.goodsMapper.selectByPrimaryKey - <==      Total: 1
+2020-06-09 12:50:49.196 [http-nio-8080-exec-9] DEBUG com.example.mapper.goodsMapper.selectByPrimaryKey - ==>  Preparing: select id, name, price from goods where id = ? 
+2020-06-09 12:50:49.198 [http-nio-8080-exec-9] DEBUG com.example.mapper.goodsMapper.selectByPrimaryKey - ==> Parameters: 2(Integer)
+2020-06-09 12:50:49.200 [http-nio-8080-exec-9] DEBUG com.example.mapper.goodsMapper.selectByPrimaryKey - <==      Total: 1
+2020-06-09 12:51:19.030 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-06-09 12:51:19.049 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-06-09 12:51:39.126 [http-nio-8080-exec-4] DEBUG com.example.mapper.membersMapper.selectAllmembers - ==>  Preparing: SELECT id, `memberNumber`, nickname, createtime, goodsid FROM member_management.members 
+2020-06-09 12:51:39.131 [http-nio-8080-exec-4] DEBUG com.example.mapper.membersMapper.selectAllmembers - ==> Parameters: 
+2020-06-09 12:51:39.145 [http-nio-8080-exec-4] DEBUG com.example.mapper.membersMapper.selectAllmembers - <==      Total: 3
+2020-06-09 12:51:39.148 [http-nio-8080-exec-4] DEBUG com.example.mapper.membersMapper.selectAllmembers - ==>  Preparing: SELECT id, `memberNumber`, nickname, createtime, goodsid FROM member_management.members 
+2020-06-09 12:51:39.148 [http-nio-8080-exec-4] DEBUG com.example.mapper.membersMapper.selectAllmembers - ==> Parameters: 
+2020-06-09 12:51:39.150 [http-nio-8080-exec-4] DEBUG com.example.mapper.membersMapper.selectAllmembers - <==      Total: 3
+2020-06-09 12:51:39.238 [http-nio-8080-exec-5] DEBUG com.example.mapper.goodsMapper.selectByPrimaryKey - ==>  Preparing: select id, name, price from goods where id = ? 
+2020-06-09 12:51:39.239 [http-nio-8080-exec-5] DEBUG com.example.mapper.goodsMapper.selectByPrimaryKey - ==> Parameters: 1(Integer)
+2020-06-09 12:51:39.241 [http-nio-8080-exec-5] DEBUG com.example.mapper.goodsMapper.selectByPrimaryKey - <==      Total: 1
+2020-06-09 12:51:39.269 [http-nio-8080-exec-3] DEBUG com.example.mapper.goodsMapper.selectByPrimaryKey - ==>  Preparing: select id, name, price from goods where id = ? 
+2020-06-09 12:51:39.270 [http-nio-8080-exec-3] DEBUG com.example.mapper.goodsMapper.selectByPrimaryKey - ==> Parameters: 3(Integer)
+2020-06-09 12:51:39.271 [http-nio-8080-exec-3] DEBUG com.example.mapper.goodsMapper.selectByPrimaryKey - <==      Total: 1
+2020-06-09 12:51:39.286 [http-nio-8080-exec-6] DEBUG com.example.mapper.goodsMapper.selectByPrimaryKey - ==>  Preparing: select id, name, price from goods where id = ? 
+2020-06-09 12:51:39.287 [http-nio-8080-exec-6] DEBUG com.example.mapper.goodsMapper.selectByPrimaryKey - ==> Parameters: 2(Integer)
+2020-06-09 12:51:39.288 [http-nio-8080-exec-6] DEBUG com.example.mapper.goodsMapper.selectByPrimaryKey - <==      Total: 1
+2020-06-09 12:51:49.052 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-06-09 12:51:49.053 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2020-06-09 12:52:19.054 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-06-09 12:52:19.055 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
