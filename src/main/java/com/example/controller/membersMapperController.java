@@ -18,4 +18,9 @@ public class membersMapperController {
         List<members> object=membersMapperServiceImpl.findAllmembers();
         return object;
     }
+    @RequestMapping("/index")
+    public Object s(){
+        List<members> object=membersMapperServiceImpl.findAllmembers();
+        return object;
+    }
 }
